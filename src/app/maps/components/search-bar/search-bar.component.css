@@ -1,0 +1,13 @@
+.search-container{
+    position: fixed;
+    top: 20px;
+    left: 20px;
+    width: 270px;
+    height: fit-content;
+    
+    background-color: white;
+    padding: 5px;
+    box-shadow: 10px 20px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 5px;
+    border: 1px solid rgba(0, 0, 0, 0.1);
+}
